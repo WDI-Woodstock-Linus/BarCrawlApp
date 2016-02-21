@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'rubygems-update', '~> 2.2', '>= 2.2.4'
 gem 'faker'
 
 gem 'rails_12factor', group: :production
